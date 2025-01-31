@@ -51,8 +51,4 @@ Foi ensinado no projeto como criar um dashboard responsivo usando esse dados, pe
   - .setAttribute()
   - .getAttribute()
 
-E muito mais.
-
-(https://www.instagram.com/inkasadev/) (@inkasadev) ou [Twitter](https://twitter.com/inkasadev)
-
 > > > > > > > 4791076 (Primeiro commit: estruturas prontas)
